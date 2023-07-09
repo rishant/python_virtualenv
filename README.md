@@ -42,17 +42,17 @@ python virtual environment with multiplate python version
  cmd: virtual-env-poc\>
 ```
 
+## Create requirment.txt:
+```
+ (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip freeze > requirements.txt
+
+```
+
 ## Install dependencies manually or using requirment.txt:
 ```
  (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip install numpy
 --or--
- (myVirtualEnv27) cmd: virtual-env-poc\> pip install -r .\requirements.txt
-```
-
-## Create requirment.txt:
-```
- (myVirtualEnv27) cmd: virtual-env-poc\>pip freeze > requirements.txt
-
+ (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip install -r .\requirements.txt
 ```
 
 # References:
