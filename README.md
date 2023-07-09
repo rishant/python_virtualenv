@@ -36,15 +36,23 @@ python virtual environment with multiplate python version
  cmd: virtual-env-poc\> .\myVirtualEnv311\Scripts\activate
 ```
 
-## Install dependencies either manually or using requirement.txt
-```
- (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip install numpy
-
-```
-## de-activate Virtual Environment:
+## De-activate Virtual Environment:
 ```
  (myVirtualEnv27) cmd: virtual-env-poc\> deactivate
  cmd: virtual-env-poc\>
+```
+
+## Install dependencies manually or using requirment.txt:
+```
+ (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip install numpy
+--or--
+ (myVirtualEnv27) cmd: virtual-env-poc\> pip install -r .\requirements.txt
+```
+
+## Create requirment.txt:
+```
+ (myVirtualEnv27) cmd: virtual-env-poc\>pip freeze > requirements.txt
+
 ```
 
 # References:
