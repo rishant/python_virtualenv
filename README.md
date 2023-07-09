@@ -55,5 +55,12 @@ python virtual environment with multiplate python version
  (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip install -r .\requirements.txt
 ```
 
+## Check installed dependencies:
+```
+ (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip list
+```
+
 # References:
-https://www.youtube.com/watch?v=sk-ikK90AyQ
+[![SC2 Video](https://img.youtube.com/vi/sk-ikK90AyQ/0.jpg)](https://www.youtube.com/watch?v=sk-ikK90AyQ)
+
+[![SC2 Video](https://img.youtube.com/vi/ggRsauJcEyE/0.jpg)](https://www.youtube.com/watch?v=ggRsauJcEyE)
