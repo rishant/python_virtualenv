@@ -60,6 +60,11 @@ python virtual environment with multiplate python version
  (myVirtualEnv27) cmd: virtual-env-poc\> python -m pip list
 ```
 
+## Pycharm virtual env creation:
+```
+  file (Menu) >> setting >> project >> python interpreter >> setting icon >> show all (option) --> "Create new python virtual env interpreter"
+```
+
 # References:
 [![SC2 Video](https://img.youtube.com/vi/sk-ikK90AyQ/0.jpg)](https://www.youtube.com/watch?v=sk-ikK90AyQ)
 
