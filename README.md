@@ -66,3 +66,5 @@ python virtual environment with multiplate python version
 [![SC2 Video](https://img.youtube.com/vi/ggRsauJcEyE/0.jpg)](https://www.youtube.com/watch?v=ggRsauJcEyE)
 
 [![SC2 Video](https://img.youtube.com/vi/Lah7WGW6exg/0.jpg)](https://www.youtube.com/watch?v=Lah7WGW6exg)
+
+[![SC2 Video](https://img.youtube.com/vi/2P30W3TN4nI/0.jpg)](https://www.youtube.com/watch?v=2P30W3TN4nI)
